@@ -86,5 +86,5 @@
 
 ### OceanBase和Mysql不同的函数 语法
 
-
+- OceanBase不支持concat连接函数
 
